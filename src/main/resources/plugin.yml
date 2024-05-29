@@ -1,0 +1,5 @@
+name: DelayCommand
+version: '${project.version}'
+main: delaycommand.delaycommand.DelayCommand
+api-version: 1.16
+authors: [ AshKiano ]

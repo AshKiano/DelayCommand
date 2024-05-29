@@ -1,0 +1,5 @@
+# The delay in minutes before executing the command after a player joins
+delayMinutes: 5
+
+# The command to execute after the delay. Use %player% to include the player's name.
+command: "say Welcome %player% to the server!"
